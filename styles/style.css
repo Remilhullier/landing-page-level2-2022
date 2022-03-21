@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Montserrat:wght@500&family=Roboto+Serif&display=swap');
+@import url('banner.css');
+@import url('button.css');
+@import url('cards.css');
+@import url('footer.css');
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	background-color: rgb(200, 200, 200);
+}
+
+h1, h2, h3 {
+	font-family: 'Lora', serif;
+}
+a {
+	text-decoration: none;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
